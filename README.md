@@ -11,7 +11,7 @@ This project predicts students' final grades based on various features using a M
 ## Live Demo
 You can check out the live demo of the Student Performance Prediction application at:
 
-[Live Demo](http://59.91.241.195:5000)
+[Live Demo](http://localhost:5000)
 
 Please note that the demo might not be available if the hosting machine is offline.
 
