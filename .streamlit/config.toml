@@ -1,0 +1,6 @@
+# .streamlit/config.toml
+
+[server]
+port = 5000
+enableCORS = false
+headless = true
